@@ -1,0 +1,4 @@
+﻿  NFA.cpp
+C:\Users\Administrator\homework\编译原理\代码\NFAtoDFA\NFA.cpp(57,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Administrator\homework\编译原理\代码\NFAtoDFA\NFA.cpp(69,20): warning C4018: “<”: 有符号/无符号不匹配
+  NFAtoDFA.vcxproj -> C:\Users\Administrator\homework\编译原理\代码\NFAtoDFA\Debug\NFAtoDFA.exe
